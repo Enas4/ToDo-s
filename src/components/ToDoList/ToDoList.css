@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(171, 187, 201);
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+.main_div {
+  background-color: rgb(240, 222, 235);
+  padding: 20px;
+}
+.center_div {
+  display: flex;
+  gap: 20px;
+}
+#btn {
+  border-radius: 50%;
+}

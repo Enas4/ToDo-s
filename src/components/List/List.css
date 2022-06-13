@@ -1,0 +1,10 @@
+li {
+  list-style-type: none;
+  padding: 10px;
+}
+.deleteDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
